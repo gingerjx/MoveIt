@@ -1,0 +1,12 @@
+# Mac
+.DS_Store
+
+# Java
+*.class
+
+# Intellij
+**.iml
+**/.idea
+
+## Logs
+**/*.log

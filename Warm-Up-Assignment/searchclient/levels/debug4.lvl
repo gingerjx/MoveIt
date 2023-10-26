@@ -1,0 +1,17 @@
+#domain
+hospital
+#levelname
+debug4
+#colors
+blue: 0
+#initial
+++++++
++0   ++
++     +
++++++++
+#goal
+++++++
++    ++
++     +
++++++++
+#end
